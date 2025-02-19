@@ -1,0 +1,53 @@
+1. Custom Logo Animation:
+Description: Create a loading animation that involves your Evonative logo. You can animate the logo to slowly fade in, rotate, or move while the page is loading.
+Style:
+Magenta color should be highlighted during the animation.
+The animation can start with a small logo and gradually scale up or appear with a fade-in effect.
+Why It Works: It's on-brand and personalizes the loading experience for visitors.
+Example:
+Your logo appears, scales up slightly, then fades out or transitions smoothly as the website loads.
+2. Circular Spinner with Magenta Accent:
+Description: A circular loading spinner with a magenta accent or outline that spins smoothly.
+Style:
+The spinner could be minimalistic, with a simple clean design that spins in a continuous motion.
+You can add a subtle gradient effect in magenta to give it a modern feel.
+Why It Works: Spinners are widely recognized, and adding your branding color will make it more professional and cohesive with your design.
+Example: A thin, sleek circle with a magenta color outline, spinning smoothly in the center of the screen.
+3. Progress Bar Animation:
+Description: A progress bar at the top of the page that gradually fills up as the website loads.
+Style:
+The progress bar could be thin and sleek, with magenta as the primary color for the progress indicator.
+Use a subtle animation where the bar fills up or shifts as it approaches 100%.
+Why It Works: Progress bars are very informative and keep users engaged, as they know the page is loading.
+Example: A simple, horizontal magenta progress bar that smoothly fills from left to right.
+4. Animated Dots (Dot Loading Animation):
+Description: A simple dot animation where 3 dots (or more) appear and disappear sequentially, giving the impression that something is loading.
+Style:
+Use magenta for the dots to align with your brand colors.
+You can animate the dots to "bounce" or fade in and out.
+Why It Works: This style is clean, minimalistic, and professional while adding a sense of movement and progression.
+Example: Three magenta dots that pulse or animate in a wave-like pattern.
+5. Line Animation (Loading Bar or Line Fade):
+Description: A horizontal or vertical line that fills up, similar to a progress bar but with a more sleek and refined look.
+Style:
+A solid line in magenta starts from one side of the screen and gradually fills, symbolizing the loading process.
+The line can pulse or shift subtly to keep the loading process engaging.
+Why It Works: It's minimal, modern, and professional. It can add a high-tech feel to the page, matching your brand.
+6. Abstract Geometric Shapes:
+Description: An abstract, minimalistic animation of geometric shapes (such as squares, circles, or triangles) that are aligned with magenta as the primary color.
+Style:
+A few geometric shapes (like circles or squares) could move around, rotate, or scale up/down in a pattern to signify loading.
+Why It Works: This approach is eye-catching and gives a sense of innovation and modernity, aligning with the software house's tech-centric image.
+7. Text-based Loading Animation:
+Description: Simple text that says something like “Loading…” or “Evonative is Innovating…” with a typing animation.
+Style:
+Use a simple, clean font. As the text is typed, magenta accents could highlight certain words.
+The animation could use a blinking cursor effect to simulate typing.
+Why It Works: It's subtle and gives a more human touch, plus it aligns with a tech-savvy audience that appreciates innovation.
+Example: "Evonative is Loading..." with each word appearing one by one, ending with an animated effect like a "dot dot dot" or fade-out.
+8. Magenta Gradient Fade In (Glassmorphism Style):
+Description: A gradient background fades in with a magenta glassmorphism effect that overlays the content while the website is loading.
+Style:
+Use a blurred background with a smooth gradient overlay in magenta.
+This would give a sleek, modern vibe to your website, reflecting high-end design aesthetics.
+Why It Works: This style speaks to your tech-focused and visually appealing brand.

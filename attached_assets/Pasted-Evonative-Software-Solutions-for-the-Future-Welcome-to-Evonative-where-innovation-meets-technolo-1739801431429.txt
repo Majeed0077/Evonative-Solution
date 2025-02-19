@@ -1,0 +1,116 @@
+Evonative – Software Solutions for the Future
+Welcome to Evonative, where innovation meets technology. As a leading software house, we specialize in delivering cutting-edge digital solutions to businesses around the globe. Whether you need custom software development, web development, mobile apps, or e-commerce solutions, we are here to bring your ideas to life.
+
+Homepage:
+Hero Section:
+Evonative’s logo and name prominently displayed.
+Tagline: "Building Digital Solutions for Your Business Needs."
+A strong call-to-action (CTA) button in magenta: "Get a Free Quote."
+A sleek, modern background that reflects innovation (use tech-related imagery or abstract designs).
+Navigation Bar:
+Clean, minimal, with links to Home, Services, Portfolio, About, Careers, and Contact.
+About Us Page:
+Mission & Vision:
+
+Briefly describe Evonative’s mission to build robust software solutions and empower businesses with tech-driven growth.
+Focus on your values such as innovation, collaboration, and client-centricity.
+Company Story:
+
+A short narrative about how Evonative started, its growth journey, and the vision for the future.
+Team Introduction:
+
+Include short bios of key members with their roles and expertise.
+Services Page:
+Service Listings:
+
+Custom Software Development – Tailored applications for business solutions.
+Web Development – Professional, responsive websites.
+Mobile App Development – Custom mobile solutions for iOS and Android.
+E-commerce Solutions – Shopify, WooCommerce, and custom e-commerce platforms.
+UI/UX Design – User-centric designs that increase engagement.
+Consulting & Strategy – Helping you build your digital roadmap.
+CTA for Each Service:
+
+Buttons like "Learn More" or "Get a Quote" in magenta to direct users to further details or lead capture forms.
+Portfolio or Case Studies:
+Showcase successful projects with:
+A brief description of the project, the problem solved, and technology used.
+Before and after examples to demonstrate the impact.
+Client Testimonials:
+Display real feedback from satisfied clients with their business results.
+Careers Page:
+Hero Section for Careers:
+
+Headline: "Join Our Growing Team at Evonative – Innovating the Future of Software."
+A background image reflecting teamwork and innovation.
+CTA button: "Explore Open Positions."
+Why Work at Evonative:
+
+Highlight the company’s culture:
+Innovative environment: We foster creativity and problem-solving.
+Collaboration: Work closely with experts in the field to solve real-world challenges.
+Growth: Opportunity to work with cutting-edge technologies and grow your skills.
+Add magenta accents around headings and CTA buttons.
+Current Job Openings:
+
+List available positions in a clean format.
+Job Title
+Location: On-site or remote.
+Job Description: A short overview of the role.
+Responsibilities: What the job entails.
+Required Skills & Experience: Essential qualifications and experience.
+Application Instructions: How to apply.
+Job Categories (Optional):
+
+Group positions under categories like Software Development, Project Management, UI/UX Design, etc.
+Employee Benefits:
+
+Highlight benefits such as flexible working hours, health benefits, career advancement, and team-building events.
+Use magenta to emphasize these key points.
+Employee Testimonials:
+
+Include quotes from team members discussing their experiences working at Evonative. Example:
+"Evonative has provided me with the perfect blend of innovation and professional growth. The team culture is one of collaboration and respect, and I feel empowered to contribute to our projects."
+How to Apply:
+
+Provide a simple form to apply with fields for name, email, resume upload, and cover letter.
+CTA: "Submit Your Application" button in magenta.
+Contact Us Page:
+Contact Form:
+
+Allow visitors to get in touch with quick questions or consultation requests.
+Include necessary fields: name, email, subject, message.
+Location & Address:
+
+Add your office address and a map if applicable.
+Social Media Links:
+
+Connect your business’s social media accounts (LinkedIn, Twitter, etc.).
+Blog (Optional for SEO):
+Share industry insights, case studies, or updates on new projects.
+Use the blog to position yourself as a thought leader in the software development space.
+Footer Section:
+Contact Information:
+Office address, phone number, email, and social media links.
+Quick Links:
+Services, Portfolio, Careers, and Privacy Policy.
+CTA:
+"Looking for a Career with Us? Browse Open Positions Below!"
+Design and Branding:
+Color Scheme:
+Primary color: Magenta for buttons, links, and headings.
+Secondary colors: White and shades of gray to keep it professional and clean.
+Ensure the design is modern, responsive, and user-friendly.
+Typography:
+Use modern, sans-serif fonts like Roboto or Open Sans for readability and a tech-forward look.
+Use magenta for headings and call-to-action buttons to create a strong visual impact.
+Additional Features:
+Live Chat or Support:
+
+A live chat feature to answer any questions from potential clients or job applicants in real-time.
+SEO:
+
+Optimize the website for search engines to help new clients and potential employees find you easily.
+Lead Capture Forms:
+
+Forms in the footer or contact page to gather emails for newsletters or future job openings.

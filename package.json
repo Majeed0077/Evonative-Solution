@@ -1,10 +1,13 @@
 {
+  "homepage": "http://EvonativeSolution.github.io/Evonative-Solution",
   "name": "rest-express",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "type": "module",
   "license": "MIT",
   "scripts": {
     "dev": "tsx server/index.ts",
+    "predeployed": "npm run build",
+    "deploy": "npm run build && gh-pages -d dist",
     "build": "vite build && esbuild server/index.ts --platform=node --packages=external --bundle --format=esm --outdir=dist",
     "start": "cross-env NODE_ENV=production node dist/index.js",
     "check": "tsc",

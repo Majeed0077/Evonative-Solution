@@ -1,5 +1,5 @@
 import { motion } from "framer-motion";
-import { ArrowRight, ArrowUpRight, ChevronDown } from "lucide-react"; 
+import { ArrowRight, ArrowUpRight, ChevronDown } from "lucide-react";
 import { Button } from "@/components/ui/button";
 import { Link } from "wouter";
 import { AnimatedSection, AnimatedText, staggerContainer, slideIn } from "@/components/ui/motion";
@@ -16,7 +16,7 @@ export default function Home() {
   return (
     <div className="overflow-hidden">
       {/* Hero Section */}
-      <section className="min-h-[90vh] relative flex items-center">
+      <section className="min-h-[94vh] relative flex items-center">
         {/* Background Elements */}
         <div className="absolute inset-0 bg-gradient-to-br from-gray-900 to-gray-800 overflow-hidden">
           <div className="absolute inset-0 bg-grid-white/[0.02] bg-[size:60px_60px]" />
@@ -58,7 +58,6 @@ export default function Home() {
               Welcome to Evonative, where innovation meets excellence. We craft cutting-edge
               digital solutions that transform businesses and drive success in the modern world.
             </motion.p>
-
             <motion.div variants={slideIn("up", 0.4)} className="flex flex-col sm:flex-row gap-4">
               <Link href="/contact">
                 <Button
@@ -83,23 +82,22 @@ export default function Home() {
               </Link>
             </motion.div>
           </motion.div>
-
           {/* Scroll Indicator */}
           <motion.div
-  animate={{
-    y: [0, 10, 0],
-  }}
-  transition={{
-    duration: 2,
-    repeat: Infinity,
-    ease: "easeInOut",
-  }}
-  className="absolute bottom-8 left-1/2 transform -translate-x-1/2 text-center cursor-pointer"
-  onClick={scrollToServices}
->
-  <ChevronDown className="w-8 h-8 text-white/60 mx-auto" />
-  <span className="text-sm text-white/60 block mt-2">Scroll to explore</span>
-</motion.div>
+            animate={{
+              y: [0, 10, 0],
+            }}
+            transition={{
+              duration: 2,
+              repeat: Infinity,
+              ease: "easeInOut",
+            }}
+            className="absolute bottom-1 left-1/2 transform -translate-x-1/2 text-center cursor-pointer"
+            onClick={scrollToServices}
+          >
+            <ChevronDown className="w-8 h-8 text-white/60 mx-auto" />
+            <span className="text-sm text-white/60 block mt-2 ">Scroll to explore</span>
+          </motion.div>
 
         </div>
       </section>
@@ -279,5 +277,5 @@ const stats = [
   { value: "100+", label: "Clients Worldwide" },
   { value: "250+", label: "Projects Completed" },
   { value: "15+", label: "Years Experience" },
-  { value: "98%", label: "Client Satisfaction" }
+  { value: "100%", label: "Client Satisfaction" }
 ];
